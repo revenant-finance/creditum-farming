@@ -1,4 +1,9 @@
-# ruler-core
+# creditum-farming
+
+## CONTRACT ADDRESS:
+FTM:
+  SteakHouseV2: https://ftmscan.com/address/0xe0c43105235c1f18ea15fdb60bb6d54814299938
+  xCREDIT: https://ftmscan.com/address/0xd9e28749e80D867d5d14217416BFf0e668C10645
 
 ## Development
 * run `npm install` to install all node dependencies
